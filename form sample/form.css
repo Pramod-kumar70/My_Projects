@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+    
+}
+.info{
+height: 530px;
+width: 560px;
+background-color: rgba(15, 15, 226, 0.753);
+margin-left: 105px;
+margin-top: 50px;
+padding-left: 50px;
+padding-top: 70px;
+padding-right: 50px;
+display: inline-block;
+border-radius: 10px;
+}
+.info p{
+    color: rgba(255, 255, 255, 0.84);
+    font-size: 18px;
+}
+.info button{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.info h1{
+    color: white;
+}
+.form{
+    height: 600px;
+width: 560px;
+background-color: rgba(11, 228, 171, 0.723);
+margin-left: 50px;
+padding-left: 50px;
+
+padding-right: 50px;
+display: inline-block;
+position: fixed;
+top: 50px;
+right: 113px;
+border: 2px solid black;
+border-radius: 10px;
+border-left: none;
+
+}
+.form h1{
+    padding-top: 50px;
+    color: blue;
+}
+
+.Names button{
+    height: 40px;
+    width: 180px;
+    border-radius: 5px;
+    
+    border: 2px solid black;
+}
+span{
+    color: blue;
+    text-decoration: underline;
+}
+.newbutton{
+    height: 40px;
+    width: 170px;
+    
+    background-color: blue;
+    border-radius: 5px;
+}
+.newbutton a{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 20px;
+}
